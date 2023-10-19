@@ -198,7 +198,7 @@ line-height: 150%;
 }
 
 .block5 a {
-    
+    display: block;
     float: left;
     background-color: #E7FFD8;
     border: none;
