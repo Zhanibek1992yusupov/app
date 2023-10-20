@@ -189,9 +189,10 @@ line-height: 150%;
     
     width: 100%;
     margin-top: 0;
-    height: 400px;
+    
     background-color: #243D31;
     padding-top: 100px;
+    padding-bottom: 100px;
     
 }
 
@@ -226,7 +227,7 @@ line-height: 150%;
 }
 
 .block5-inner2 h1 {
-    width: 50%;
+    width: 30%;
     float: left;
     color: var(--White, #FFF);
     font-family: DM Sans;
@@ -240,7 +241,7 @@ line-height: 150%;
 
 .block5-inner2 blockquote {
     display: inline-block;
-    width: 50%;
+    width: 70%;
     color: var(--Silver, #E6E9ED);
     font-family: Inter;
     font-size: 16px;
@@ -252,14 +253,57 @@ line-height: 150%;
     
 }
 
+.container {
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+  }
+
+  .container h1 {
+    color: #FFF;
+    font-family: DM Sans;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 86px;
+    letter-spacing: -3.2px;
+  }
+
+  .container blockquote {
+    color: #FFF;
+    font-family: DM Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; 
+  }
+
+  .container1 {
+    padding-top: 108px;
+    width: 33%;
+  }
+
+  .container2 {
+    padding-top: 113px;
+    width: 33%;
+  }
+
+  .container3 {
+    padding-top: 113px;
+    width: 33%;
+  }
 
 
 
 
 
-
-
-
+.block6 img {
+    margin-left: 48px;
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
 
 
 
